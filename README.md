@@ -1,6 +1,6 @@
 # Currency Converter &#128176;
 
-Este é um projeto simples para converter reais brasileiros (BRL) para dólares americanos (USD) usando a API da taxa de câmbio mais recente do Banco Central do Brasil.
+Este é um projeto simples para estudos de consumo de API. Ele converte reais brasileiros (BRL) para dólares americanos (USD) usando a API da taxa de câmbio mais recente do Banco Central do Brasil.
 
 ## &#9654;&#65039; Funcionalidades
 
