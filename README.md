@@ -23,5 +23,3 @@ Este é um projeto simples para estudos de consumo de API com PHP. Ele converte 
 ## &#128195; Licença
 
 Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).
-
-Divirta-se convertendo suas moedas! 😊🚀
