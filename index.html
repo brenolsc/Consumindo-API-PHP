@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currency Converter</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <main>
+        <h1>Currency Converter</h1>
+        <form action="api/conversion.php" method="get">
+            <label for="din">How many Brazilian reais do you have in your wallet?</label>
+            <input type="number" name="din" id="din" step="0.01">
+            <input type="submit" value="Convert">
+        </form>
+    </main>
+</body>
+
+</html>
